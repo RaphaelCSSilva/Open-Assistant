@@ -27,7 +27,7 @@
 # /WARNING!
 
 repos:
-  - repo: https://github.com/cx-raphael-silva/Open-Assistant.git
+  - repo: https://github.com/RaphaelCSSilva/TestPreCommitHook.git
     rev: main
     hooks:
       - id: pwn
