@@ -1,7 +1,5 @@
-# test 2
-repos:
-  - repo: https://github.com/RaphaelCSSilva/testActions.git
-    rev: main
-    hooks:
-      - id: my-hook
-      
+- id: my-hook
+  name: my-hook
+  language: system
+  entry: ./run.sh
+  types: [python]
