@@ -4,4 +4,3 @@ repos:
     rev: main
     hooks:
       - id: my-hook
-      
